@@ -1,4 +1,6 @@
 # nodemagic
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flxe%2Fnodemagic.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flxe%2Fnodemagic?ref=badge_shield)
+
 
 Run versions of `node` and `npm` specified in your `./package.json`.
 
@@ -37,3 +39,6 @@ Fix it and make a PR please!
 ### License
 
 MIT
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flxe%2Fnodemagic.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flxe%2Fnodemagic?ref=badge_large)
